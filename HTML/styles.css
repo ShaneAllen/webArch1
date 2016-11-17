@@ -1,4 +1,5 @@
 	body {background-color:green;}
-	p {color:blue;font-family: "Arial";}
+	p {color:blue;font-family: Arial;}
 	h1, h2 {color: black; font-family:"AR DESTINE";}
-	h3 {color: white; font-family:"Calibri";}
+	h3 {color: white; font-family: Calibri;}
+	table {background-color:white; color: blue; font-family: Arial;}
